@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Gerard Lamoureux
+* Assignment 7
+* Handles Game Over and Win Text/Restart
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

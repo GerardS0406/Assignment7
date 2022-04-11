@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+* Gerard Lamoureux
+* Assignment 7
+* Controls Spawning Powerups and Enemies
+* Also Shows Wave on UI
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;

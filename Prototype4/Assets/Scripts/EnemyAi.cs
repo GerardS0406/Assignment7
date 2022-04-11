@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* Gerard Lamoureux
+* Assignment 7
+* Controls Enemy Movement
+*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
